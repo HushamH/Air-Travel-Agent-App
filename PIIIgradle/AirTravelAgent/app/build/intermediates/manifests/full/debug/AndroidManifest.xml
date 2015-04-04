@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="group0366.com.airtravelagent"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:name="group0366.com.airtravelagent.AirTravelAgent"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Air" >
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.HomeActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.SignInActivity"
+            android:label="@string/title_activity_sign_in" >
+        </activity>
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.SignUpActivity"
+            android:label="@string/title_activity_sign_up" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.LauncherActivity"
+            android:label="@string/title_activity_launcher" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="group0366.com.airtravelagent.frontend.SearchActivity" />
+        <activity android:name="group0366.com.airtravelagent.frontend.ResultsActivity" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.SearchFlightsActivity"
+            android:label="Search Flights" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.SearchItinerariesActivity"
+            android:label="Search Itineraries" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.FlightSearchResultsActivity"
+            android:label="Results" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.ItinerarySearchResultsActivity"
+            android:label="Results" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.EditFlightActivity"
+            android:label="Edit Flight" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.ViewClientInfoActivity"
+            android:label="Client Info" />
+        <activity
+            android:name="group0366.com.airtravelagent.frontend.ViewClientsActivity"
+            android:label="Client Info" />
+    </application>
+
+</manifest>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Husham/Desktop/School/CSC207/group_0366/PIII/AirTravelAgent/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Husham/Desktop/School/CSC207/group_0366/PIII/AirTravelAgent/app/build/intermediates/pre-dexed/debug/classes-0f792aa1941a4c78592ee1398479d1906e410f44.jar" />
+    </item>
+    <item
+        jar="/Users/Husham/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Husham/Desktop/School/CSC207/group_0366/PIII/AirTravelAgent/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f10fb87ea9d1a72048bf04024d3e3b02f895ef5b.jar" />
+    </item>
+    <item
+        jar="/Users/Husham/Desktop/School/CSC207/group_0366/PIII/AirTravelAgent/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Husham/Desktop/School/CSC207/group_0366/PIII/AirTravelAgent/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ee289f9e58b2306fdfd9f0c8cea9196cd5610822.jar" />
+    </item>
+    <item
+        jar="/Users/Husham/Desktop/School/CSC207/group_0366/PIII/AirTravelAgent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Husham/Desktop/School/CSC207/group_0366/PIII/AirTravelAgent/app/build/intermediates/pre-dexed/debug/classes-aa51adfd240de72f858dffa8373721e31256791f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AirTravelAgent/app/build/intermediates/pre-dexed/debug/classes-aa51adfd240de72f858dffa8373721e31256791f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AirTravelAgent/app/build/intermediates/pre-dexed/debug/classes-0f792aa1941a4c78592ee1398479d1906e410f44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AirTravelAgent/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f10fb87ea9d1a72048bf04024d3e3b02f895ef5b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AirTravelAgent/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ee289f9e58b2306fdfd9f0c8cea9196cd5610822.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
